@@ -6,17 +6,17 @@ the model uses the [IITB English to Hindi parallel Corpus](https://www.cfilt.iit
 
 ## The models
 
--  1 - [Seq2Seq model using LSTM](English-to-Hindi-translation-model-using-Seq2Seq-architecture\seq2seq LSTM\seq2seq_lstm_eng2hin.ipynb)
+-  1 - [Seq2Seq model using LSTM](https://github.com/SoJaoAnant/English-to-Hindi-translation-model-using-Seq2Seq-architecture/blob/main/seq2seq%20LSTM/seq2seq_lstm_eng2hin.ipynb)
 
-![the training loss](English-to-Hindi-translation-model-using-Seq2Seq-architecture\seq2seq LSTM\enhi_lstm_training_loss.png)
+![the training loss](https://github.com/SoJaoAnant/English-to-Hindi-translation-model-using-Seq2Seq-architecture/blob/main/seq2seq%20LSTM/enhi_lstm_training_loss.png)
 
--  2 - [Seq2Seq model using GRU](English-to-Hindi-translation-model-using-Seq2Seq-architecture\seq2seq GRU\seq2seq_gru_eng2hin.ipynb)
+-  2 - [Seq2Seq model using GRU](https://github.com/SoJaoAnant/English-to-Hindi-translation-model-using-Seq2Seq-architecture/blob/main/seq2seq%20GRU/seq2seq_gru_eng2hin.ipynb)
 
-![the training loss](English-to-Hindi-translation-model-using-Seq2Seq-architecture\seq2seq GRU\enhi_gru_training_loss.png)
+![the training loss](https://github.com/SoJaoAnant/English-to-Hindi-translation-model-using-Seq2Seq-architecture/blob/main/seq2seq%20GRU/enhi_gru_training_loss.png)
 
--  3 - [Seq2Seq model with Attention](English-to-Hindi-translation-model-using-Seq2Seq-architecture\seq2seq Attention\seq2seq-attention-en2hi.ipynb)
--  
-![the training loss](English-to-Hindi-translation-model-using-Seq2Seq-architecture\seq2seq Attention\enhi_attn_loss.png)
+-  3 - [Seq2Seq model with Attention](https://github.com/SoJaoAnant/English-to-Hindi-translation-model-using-Seq2Seq-architecture/blob/main/seq2seq%20Attention/seq2seq-attention-en2hi.ipynb)
+  
+![the training loss](https://github.com/SoJaoAnant/English-to-Hindi-translation-model-using-Seq2Seq-architecture/blob/main/seq2seq%20Attention/enhi_attn_loss.png)
 
 you can find the trained model's dictionaries [here](https://drive.google.com/drive/folders/1vD4-hJpIAdNLYt41rw_9MRIEfCecdFYd?usp=sharing)
 
@@ -24,4 +24,5 @@ you can find the trained model's dictionaries [here](https://drive.google.com/dr
 
 https://github.com/bentrevett/pytorch-seq2seq
 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
